@@ -1,0 +1,4 @@
+interface:
+  display_name: "成语水墨图文卡"
+  short_description: "面向公考备考，查释义并生成水墨国风成语学习图文卡片"
+  default_prompt: "使用 $chengyu-story-illustrator，查找这个成语的释义、来源和易错点，判断适合的画法，并生成一张水墨国风成语学习卡片。"
