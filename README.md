@@ -60,6 +60,7 @@ python scripts/compose_card.py \
 .
 ├── SKILL.md
 ├── agents/openai.yaml
+├── assets/icon.png
 ├── references/card-template.md
 ├── scripts/compose_card.py
 ├── LICENSE
